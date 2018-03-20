@@ -1,0 +1,5 @@
+package environment
+
+trait Namespace {
+
+}
